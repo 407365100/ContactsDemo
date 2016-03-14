@@ -1,0 +1,11 @@
+<resources>
+    <!-- 字体颜色 -->
+    <!-- 灰色、中淡 -->
+    <color name="color_606060">#606060</color>
+    <!-- 灰色、重 -->
+    <color name="color_202020">#202020</color>
+    <!-- 背景白 -->
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_66d7d7d7">#66d7d7d7</color>
+    <color name="color_00d7d7d7">#00d7d7d7</color>
+</resources>
